@@ -1,0 +1,10 @@
+div {
+    max-width: 200px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.hide {
+    display: none;
+    opacity: 0;
+}
