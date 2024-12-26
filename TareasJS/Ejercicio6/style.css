@@ -5,3 +5,9 @@ main {
     align-items: center;
     gap: 15px;
 }
+
+main p#resultado {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
