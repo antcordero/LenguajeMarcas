@@ -8,6 +8,7 @@
   <li>Ejercicio 5: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio5/index.html">Resultado</a></li>
   <li>Ejercicio 6: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio6/index.html">Resultado</a></li>
   <li>Ejercicio 7: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio7/index.html">Resultado</a></li>
+  <li>Ejercicio 7 V2: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio7V2/index.html">Resultado</a></li>
   <li>Ejercicio 8: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio8/index.html">Resultado</a></li>
   <li>Ejercicio 9: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio9/index.html">Resultado</a></li>
   <li>Ejercicio 10: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio10/index.html">Resultado</a></li>
