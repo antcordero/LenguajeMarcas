@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+div#galeria div#imagenPrincipal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+}
+
+div#galeria div#imagenPrincipal img {
+    min-width: 400px;
+}
+
+div#galeria div#miniaturas {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+div#galeria div#miniaturas img {
+    max-width: 100px;
+}
+
+.resalto  {
+    border: solid 1px black;
+}
