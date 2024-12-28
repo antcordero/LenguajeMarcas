@@ -21,5 +21,5 @@
 <br>
 <p>Prácticas propias:</p>
 <ul>
-  <li>Calculadora <em>(in process...)</em>: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Calculadora/index.html">Calculadora simple</a></li>
+  <li>Calculadora <em>v1</em>: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Calculadora/index.html">Calculadora simple</a></li>
 </ul>
