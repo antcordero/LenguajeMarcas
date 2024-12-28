@@ -1,0 +1,120 @@
+/* Estilos generales */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e5e5e5;
+    font-family: sans-serif;
+}
+
+main {
+    background-color: #515065;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos de la pantalla */
+#pantalla {
+    margin-bottom: 20px;
+}
+
+#pantalla input {
+    width: 100%;
+    height: 50px;
+    font-size: 25px;
+    text-align: right;
+    border: none;
+    background-color: #d4e2e3;
+    border-radius: 5px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+/* Estilos de la botonera */
+#botonera {
+    display: flex;
+}
+
+#btn-numeros, 
+#btn-operaciones {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#btn-numeros {
+    min-width: 50%;
+}
+
+#btn-numeros table {
+    width: 100%;
+    padding: 5px;
+}
+
+#btn-operaciones {
+    margin: 10px;
+}
+
+#btn-operaciones button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+button {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Colores de botones */
+button.n1, 
+button.n2, 
+button.n3, 
+button.n4, 
+button.n5, 
+button.n6, 
+button.n7, 
+button.n8, 
+button.n9, 
+button.n0 {
+    background-color: #b1b0b6;
+}
+
+button.sumar,
+button.restar, 
+button.multiplicar, 
+button.dividir, 
+button.igual {
+    background-color: #ff8c00;
+    color: #ffffff;
+}
+
+button.borrar {
+    background-color: #ff4040;
+    color: #ffffff;
+}
+
+/* Efectos de hover a los botones */
+button:hover {
+    background-color: #d0d0d0;
+}
+
+button.sumar:hover, 
+button.restar:hover, 
+button.multiplicar:hover, 
+button.dividir:hover, 
+button.igual:hover {
+    background-color: #ff7f00;
+}
+
+button.borrar:hover {
+    background-color: #ff3030;
+}

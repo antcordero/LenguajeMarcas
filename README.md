@@ -18,3 +18,8 @@
   <li>Ejercicio 14: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio14/index.html">Resultado</a></li>
   <li>Ejercicio 15: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Ejercicio15/index.html">Resultado</a></li>
 </ul>
+<br>
+<p>Prácticas propias:</p>
+<ul>
+  <li>Calculadora <em>(in process...)</em>: <a href="https://antcordero.github.io/LenguajeMarcas/TareasJS/Calculadora/index.html">Calculadora simple</a></li>
+</ul>
