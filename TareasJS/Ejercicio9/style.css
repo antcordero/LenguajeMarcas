@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+#carrusel {
+    text-align: center;
+}
+  
+img {
+    width:200px;
+    height:200px;
+    src: "https://picsum.photos/200?1";
+}
+
+button {
+    margin: 0 5px;
+    padding: 5px 10px;
+}
+  

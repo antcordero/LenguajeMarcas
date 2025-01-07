@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 15</title>
+</head>
+<body>
+    <main>
+        <form id="colorForm">
+            <label for="colorInput">Escribe un color (nombre o código):</label>
+            <input type="text" id="colorInput" placeholder="Ej: red o #ff0000">
+            <button type="button" id="submitColor">Cambiar Color</button>
+        </form>
+        <p>Color seleccionado: <span id="colorName">#ffffff</span></p>
+        <div id="colorBox" style="padding: 20px; border: 1px solid #ddd;">
+            <p>Este es el área cuyo color de fondo cambiará.</p>
+        </div>
+        <p id="errorMessage" style="color: red; display: none;">El color ingresado no es válido.</p>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
